@@ -1,2 +1,2 @@
 # StockPricePredictor
-A Stock Price Predictor project based on the basics of machine learning.
+Project was developed to forecast prices of stocks based on historical data using linear regression.
